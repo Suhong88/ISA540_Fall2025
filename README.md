@@ -1,1 +1,1 @@
-"# Course Materials for ISA540 Fall 2025" 
+"# Course Materials for ISA540 (Data Management in the age of AI) Fall 2025" 
